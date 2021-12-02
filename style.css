@@ -1,0 +1,82 @@
+    <style>
+        .name {
+            left: 0px;
+            height: auto;
+            position: absolute;
+            top: 5px;            
+        }
+    
+        .company {
+            position: absolute;
+            top: 55px;
+            left: 20px;
+        }
+    
+        .divider {
+            position: absolute;
+            top: 0px;
+            left: 205px;
+        }
+        
+        
+        .facebook {
+            position: absolute;
+            top: 45px;
+            left: 175px;
+        }
+        
+        .instagram {
+            position: absolute;
+            top: 70px;
+            left: 175px;
+        }
+        
+        .trip {
+            position: absolute;
+            top: 95px;
+            left: 175px;
+        }
+        
+        
+        .google {
+            position: absolute;
+            top: 120px;
+            left: 175px;
+        }
+        
+        
+    </style>
+    
+    
+    
+    <body>
+        
+        
+        <div class="name">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/G3WRQ9pS/Laura-Sondermann.png" width="180" height="auto"></a>
+        </div>
+            
+        <div class="company">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/CxMvFtkj/Logo.png" width="125" height="auto"></a>
+        </div>
+        
+        <div class="divider">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/5NBG9LGM/Divider.png" width="auto" height="145"></a>
+        </div>
+            
+            
+        <div class="facebook">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/XJBHRCFm/Facebook.png" width="20" height="auto"></a>
+        </div>
+            
+        <div class="instagram">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/MZR3t1zj/Instagram.png" width="20" height="auto"></a>
+        </div>
+            
+        <div class="trip">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/NF74t70J/Trip-Advisor.png" width="20" height="auto"></a>
+        </div>
+            
+            <div class="google">
+            <a href="https://africanscenicsafaris.com/" target="_blank"><img src="https://i.postimg.cc/hvFyct1j/Google.png" width="20" height="auto"></a>
+        </div>
